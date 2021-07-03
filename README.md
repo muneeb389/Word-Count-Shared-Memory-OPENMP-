@@ -20,3 +20,4 @@ To achieve parallelism, main file is divided into 5 equal parts and 5 threads ar
 Using #pragma omp section each thread is assigned a section to count the frequency of each word present in that part of the file.
 
 
+graph.PNG
