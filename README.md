@@ -20,4 +20,4 @@ To achieve parallelism, main file is divided into 5 equal parts and 5 threads ar
 Using #pragma omp section each thread is assigned a section to count the frequency of each word present in that part of the file.
 
 
-graph.PNG
+https://github.com/muneeb389/Word-Count-Shared-Memory-OPENMP-/blob/19205dfe5bd961eb5f5b396d98cc649902dbfa0c/graph.PNG
